@@ -41,16 +41,16 @@ Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
 
-![Fitbit logo](/assets/img/fitbit_logo.jpg)
-![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_logo.jpg)
+![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
+![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
 ![Fitbit days full/partial/not logged by participant ID](/assets/img/fitbit_fullDaysLoggedbyId.png)
-![Exercise lab features correlation matrix](/assets/img/corrMatrix_ExerciseLab.png)
+![Exercise lab features correlation matrix](/assets/img/fitbit_corrMatrix_ExerciseLab.png)
 
 **Wind Farm Data Analysis |  General Assembly (_Jan 2024_)**
 
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
 
-![Gust Gurus logo](/assets/img/gust_gurus_logo.png)
+![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
 ![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
 ![Number of turbines per state by company](/assets/img/gust_gurus_turbines_byCompany_byState.jpg)
 ![Number of turbines by state](/assets/img/gust_gurus_TurbinesByState.jpg)
