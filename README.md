@@ -4,17 +4,17 @@
 I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust.  I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge.   I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.
 
 
-### Technical Skills
+## Technical Skills
 **Coding:** Python, SQL, R  
 **Data handling/ Vis:** Excel, Power BI, Tableau  
 **Adobe:** Photoshop, Illustrator, AfterEffects  
 **3D:** Maya, 3ds Max, Cinema 4D
 
-### Personal Skills
+## Personal Skills
 **Teaching/ Curriculum Writing:** University lecturer 4 years,  7 years total teaching experience
 **Presentation design:** Creating compelling visual presentations - skilled at organising information in a digestible and compelling way to convey complex concepts to diverse audiences.
 
-### Awards
+## Awards
 **UNE Vice Chancellor's Scholar Award (_Jun 2023_)**
 Graduating with GPA 6.7 or higher; honor roll.
 
@@ -29,9 +29,11 @@ Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology
 
 ## Projects
 **Fitbit Data Study |  General Assembly (_Jan 2024_)**
+
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
 
 **Wind Farm Data Analysis |  General Assembly (_Jan 2024_)**
+
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
 
 ## Professional Experience
