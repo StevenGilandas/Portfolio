@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Profile
-<span style="color: darkgray;">I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust.  I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge.   I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.</span>
+I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust.  I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge.   I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.
 
 
 ## Technical Skills
