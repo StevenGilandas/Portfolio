@@ -15,6 +15,31 @@ I am a Data Analyst with an interest in Biostatistics. Fulfilling work for me is
 
 **Presentation design:** Creating compelling visual presentations - skilled at organising information in a digestible and compelling way to convey complex concepts to diverse audiences.
 
+
+## Projects
+_To explore projects please download repository ZIP/TAR on the left_
+
+
+**Fitbit Data Study |  General Assembly (_Jan 2024_)**
+
+Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
+
+![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
+![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
+![Fitbit days full/partial/not logged by participant ID](/assets/img/fitbit_fullDaysLoggedbyId.png)
+![Exercise lab features correlation matrix](/assets/img/fitbit_corrMatrix_ExerciseLab.png)
+
+
+**Wind Farm Data Analysis |  General Assembly (_Jan 2024_)**
+
+Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
+
+![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
+![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
+![Number of turbines per state by company](/assets/img/gust_gurus_turbines_byCompany_byState.jpg)
+![Number of turbines by state](/assets/img/gust_gurus_TurbinesByState.jpg)
+
+
 ## Awards
 **UNE Vice Chancellor's Scholar Award (_Jun 2023_):**
 Graduating with GPA 6.7 or higher; honor roll.
@@ -36,24 +61,6 @@ Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology
 
 
 
-## Projects
-**Fitbit Data Study |  General Assembly (_Jan 2024_)**
-
-Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
-
-![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
-![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
-![Fitbit days full/partial/not logged by participant ID](/assets/img/fitbit_fullDaysLoggedbyId.png)
-![Exercise lab features correlation matrix](/assets/img/fitbit_corrMatrix_ExerciseLab.png)
-
-**Wind Farm Data Analysis |  General Assembly (_Jan 2024_)**
-
-Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
-
-![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
-![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
-![Number of turbines per state by company](/assets/img/gust_gurus_turbines_byCompany_byState.jpg)
-![Number of turbines by state](/assets/img/gust_gurus_TurbinesByState.jpg)
 
 ## Professional Experience
 **Data Analyst Student | Biostatistics @ General Assembly (_Nov 2023 - Feb 2024_)**
