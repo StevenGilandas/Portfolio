@@ -5,4 +5,4 @@ description: Data analyst | Biostatistics | Teaching
 show_downloads: true
 # download zip/ tar/ go to github
 # download the code
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
