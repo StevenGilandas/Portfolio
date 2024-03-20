@@ -16,9 +16,11 @@ I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me i
 
 ## Awards
 **UNE Vice Chancellor's Scholar Award (_Jun 2023_)**
+
 Graduating with GPA 6.7 or higher; honor roll.
 
 **UNE Physiology Prize -3rd Year (_Jan 2022_)**
+
 Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology, neurobiology, immunology, haematology, metabolism and nutrition.
 
 ## Education
