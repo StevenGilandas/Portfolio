@@ -9,6 +9,7 @@
 
 ## Personal Skills
 **Teaching/ Curriculum Writing:** University lecturer 4 years,  7 years total teaching experience
+
 **Presentation design:** Creating compelling visual presentations - skilled at organising information in a digestible and compelling way to convey complex concepts to diverse audiences.
 
 ## Awards
@@ -19,15 +20,24 @@ Graduating with GPA 6.7 or higher; honor roll.
 Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology, neurobiology, immunology, haematology, metabolism and nutrition.
 
 ## Education
-- **Bachelor of Biomedical Science** | University of New England (_Jun 2023_) | GPA 6.96
-- **Master of Design Science (Digital Media)** | University of Sydney (_Nov 2005_)
-- **Bachelor of Arts** | University of Sydney (_2002_)
-- **Cert IV Training & Assessment** | Southern Cross Training (_2017_)
+**Bachelor of Biomedical Science** | University of New England (_Jun 2023_) | GPA 6.96
+
+
+**Master of Design Science (Digital Media)** | University of Sydney (_Nov 2005_)
+
+
+**Bachelor of Arts** | University of Sydney (_2002_)
+
+
+**Cert IV Training & Assessment** | Southern Cross Training (_2017_)
+
+
 
 ## Projects
 **Fitbit Data Study |  General Assembly (_Jan 2024_)**
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
+
 
 **Wind Farm Data Analysis |  General Assembly (_Jan 2024_)**
 
