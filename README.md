@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Profile
-I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust.  I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge.   I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.
+<span style="color: darkgray;">I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust.  I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge.   I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.</span>
 
 
 ## Technical Skills
@@ -15,12 +15,10 @@ I am a Data Analyst with an interest in Biostatistics.  Fulfilling work for me i
 **Presentation design:** Creating compelling visual presentations - skilled at organising information in a digestible and compelling way to convey complex concepts to diverse audiences.
 
 ## Awards
-**UNE Vice Chancellor's Scholar Award (_Jun 2023_)**
-
+**UNE Vice Chancellor's Scholar Award (_Jun 2023_):**
 Graduating with GPA 6.7 or higher; honor roll.
 
-**UNE Physiology Prize -3rd Year (_Jan 2022_)**
-
+**UNE Physiology Prize -3rd Year (_Jan 2022_):**
 Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology, neurobiology, immunology, haematology, metabolism and nutrition.
 
 ## Education
