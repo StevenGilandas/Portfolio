@@ -56,6 +56,8 @@ Analysed geographical distribution and efficiency of US wind farms, identifying 
 
 [Wind Farm Study Tableau Graphics(download .twbx)](https://bit.ly/windFarm_tableau)
 
+[Wind Farm Study Jupyter Notebook (download .ipnyb)](https://bit.ly/windfarm_fuzzywuzzyNotebook) :: Python code for matching windfarm operator names with parent company names using FuzzyWuzzy match.  
+
 ![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
 ![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
 ![Number of turbines per state by company](/assets/img/gust_gurus_turbines_byCompany_byState.jpg)
