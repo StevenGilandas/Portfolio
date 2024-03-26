@@ -20,12 +20,18 @@ I am a Data Analyst with an interest in Biostatistics. Fulfilling work for me is
 
 ------------------------------------------------------------------------------------------------
 ## Projects
-_To explore projects please download repository ZIP/TAR on the left_
+_To explore all projects please download repository ZIP/TAR_
 
 
 ### Fitbit Data Study |  General Assembly (Jan 2024)
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
+
+[Fitbit Data Study Tech Report](https://bit.ly/fitbitDataStudy_techReport_sg)
+
+[Fitbit Data Study Presentation Deck](https://bit.ly/fitbitDataStudy_presentation)
+
+[Fitbit Data Study Tableau Graphics (download .twbx)](https://bit.ly/fitbit_tableauGraphics)
 
 ![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
 ![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
@@ -36,6 +42,10 @@ Developed a predictive model analysing Fitbit data over one month to correlate a
 ### Wind Farm Data Analysis |  General Assembly (Jan 2024)
 
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
+
+[Wind Farm Study Presentation](https://bit.ly/windFarm_finalPresDeck)
+
+[Wind Farm Study Tableau Graphics(download .twbx)](https://bit.ly/windFarm_tableau)
 
 ![Gust Gurus logo](/assets/img/gust_gurus_logo_sm.png)
 ![Turbine efficiency by parent company](/assets/img/gust_gurus_efficiency_parentCompany.jpg)
