@@ -38,6 +38,8 @@ Developed a predictive model analysing Fitbit data over one month to correlate a
 
 [Fitbit Data Study Tableau Graphics (download .twbx)](https://bit.ly/fitbit_tableauGraphics)
 
+[Fitbit Data Study Jupyter Notebook (download .ipynb)](https://bit.ly/fitbit_pythonCode)  :: To run the project with associated dataset, please download the full github repository.  As this is a long notebook PyCharm is recommended so that you can easily jump between different sections.
+
 ![Fitbit logo](/assets/img/fitbit_logo_sm.jpg)
 ![Fitbit calories burned by Activity Minutes](/assets/img/fitbit_caloriesBurned_byActivityMinutes.png)
 ![Fitbit days full/partial/not logged by participant ID](/assets/img/fitbit_fullDaysLoggedbyId.png)
