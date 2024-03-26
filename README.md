@@ -24,6 +24,7 @@ _To explore all projects please download repository ZIP/TAR_
 
 
 ------------------------------------------------------------------------------------------------
+<a name="fitbit"></a>
 ### Fitbit Data Study |  General Assembly (Jan 2024)
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
@@ -41,6 +42,7 @@ Developed a predictive model analysing Fitbit data over one month to correlate a
 
 
 ------------------------------------------------------------------------------------------------
+<a name="windfarm"></a>
 ### Wind Farm Data Analysis |  General Assembly (Jan 2024)
 
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
@@ -56,6 +58,7 @@ Analysed geographical distribution and efficiency of US wind farms, identifying 
 
 
 ------------------------------------------------------------------------------------------------
+<a name="globalFood"></a>
 ### Global Food Distribution (Power BI dashboard) | General Assembly (Nov 2023)
 Analysis of sales data for global food distribution company with presence in US, Europe and Japan - completed as a lab exercise with General Assembly.  Used Power BI to derive insights to client's products sales and marketing in these countries.  Identified: top selling products, trends in sales for these products, customers generating highest sales.  Comparison was made of sales in US vs Europe.  Recommendations made to maximise portfolio profitability to US and Europe, and recommendations made for exploring untapped markets in Europe.
 
