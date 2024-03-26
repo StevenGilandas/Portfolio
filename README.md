@@ -26,8 +26,8 @@ _To explore all projects please download repository ZIP/TAR_
 
 
 ------------------------------------------------------------------------------------------------
-<a name="fitbit"></a>
-### Fitbit Data Study |  General Assembly (Jan 2024)
+
+<a name="fitbit">### Fitbit Data Study |  General Assembly (Jan 2024)</a>
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
 
@@ -87,6 +87,7 @@ _4. Customer location:_ Map: cities, bubble size = sales amount.  (filtered by: 
 ------------------------------------------------------------------------------------------------
 <a name="tableau"></a>
  
+### COVID Data Journalism (Tableau Story) | General Assembly (Dec 2023)
 Analysis of COVID dataset from Our World In Data: used a series of Tableau visualisations to address the question "Where is the coronavirus situation the worst?"  Animation of global spread was created, looking at population adjusted cases by month.  Density of cases was compared with death rates across the same countries.  CFR (Case Fatality Ratio) was calculated to assess burden of disease from COVID by country. Countries with highest deaths (poor performers) per million vs countries with lowest CFR (good performers) were compared across a number of metrics including: testing and vaccination rates, population density, available hospital beds, lockdown severity, wealth, life expectancy, burden of chronic disease, age distribution. 
 
 [COVID Data Journalism - Tableau Story (download .twbx)](https://bit.ly/COVID_dataJournalism_tableau)
