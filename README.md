@@ -1,7 +1,7 @@
 # Data Analyst
 [CV](https://bit.ly/StevenGilandasCV_2024)
 
-Project Navigation: [Fitbit Data Study](#fitbit) | [Wind Farm Data Study](#windfarm) | [Power BI - Global Food Data](#globalFood)
+Project Navigation: [Fitbit](#fitbit) // [Wind Farm](#windfarm) // [Power BI](#globalFood)
 
 ------------------------------------------------------------------------------------------------
 ## Profile
