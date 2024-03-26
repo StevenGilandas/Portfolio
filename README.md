@@ -1,7 +1,7 @@
 # Data Analyst
 :: **[Download Resume](https://bit.ly/StevenGilandasCV_2024)**
 
-:: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // [Power BI](#globalFood) // [Tableau](#tableau)
+:: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_
 
 ------------------------------------------------------------------------------------------------
 ## Profile
