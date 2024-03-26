@@ -53,6 +53,29 @@ Analysed geographical distribution and efficiency of US wind farms, identifying 
 ![Number of turbines by state](/assets/img/gust_gurus_TurbinesByState.jpg)
 
 
+### Global Food Distribution (Power BI dashboard) | General Assembly (Nov 2023)
+Analysis of sales data for global food distribution company with presence in US, Europe and Japan - completed as a lab exercise with General Assembly.  Used Power BI to derive insights to client's products sales and marketing in these countries.  Identified: top selling products, trends in sales for these products, customers generating highest sales.  Comparison was made of sales in US vs Europe.  Recommendations made to maximise portfolio profitability to US and Europe, and recommendations made for exploring untapped markets in Europe.
+
+**Dashboard comprises:** 
+
+
+_1. High-level metrics:_ Sales by product group, top 5 sales by customer, quarterly sales by region, monthly sales YOY (filtered by: year/qtr/month, region)
+
+_2. Product details:_ monthly sales YOY, sales by product group with gross margin %, tree map: product group by total sales (filtered by: region)
+
+_3. Customer details:_ Scatterplot: qty of product sold vs sales (labelled by customer name), table: customer/ product group/ product type, sales/ qty/ margin/ avg sales per invoice (filtered by: year/qtr/month, manager)
+
+_4. Customer location:_ Map: cities, bubble size = sales amount.  (filtered by: product group, region, year)
+
+[Global Food Distribution - Report](https://bit.ly/powerBI_globalFood_report)
+
+[Global Food Distribution - Dashboard (download .pbix)](https://bit.ly/powerBI_globalFood_dashboard)
+
+![PowerBI 1 - HighLevel](/assets/img/powerBI_1_highLevel.png)
+![PowerBI 2 - Products](/assets/img/powerBI_2_products.png)
+![PowerBI 4 - Location](/assets/img/powerBI_4_location.png)
+
+
 ------------------------------------------------------------------------------------------------
 ## Awards
 **UNE Vice Chancellor's Scholar Award (_Jun 2023_):**
