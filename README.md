@@ -5,7 +5,7 @@
 
 :: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_ // _[SQL](#sql)_
 
-:: [Awards : Education : Experience](#awards)
+:: **[Awards : Education : Experience](#awards)**
 
 ------------------------------------------------------------------------------------------------
 ## Profile
