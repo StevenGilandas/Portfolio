@@ -1,7 +1,7 @@
 # Data Analyst
 :: **[Download Resume](https://bit.ly/StevenGilandasCV_2024)**
 
-:: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_
+:: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_ // _[SQL](#sql)_
 
 ------------------------------------------------------------------------------------------------
 ## Profile
@@ -98,6 +98,17 @@ Analysis of COVID dataset from Our World In Data: used a series of Tableau visua
 [COVID Data Journalism - Tableau Story (download .twbx)](https://bit.ly/COVID_dataJournalism_tableau)
 
 ![COVID Data Journalism](/assets/img/tableau_covid_dataJournalism.png)
+
+
+------------------------------------------------------------------------------------------------
+<a name="sql"></a>
+ 
+### Iowa Liquor Sales Analysis - SQL | General Assembly (Nov 2023)
+Data analysis of liquor sales across various counties in Iowa - used online database of alcohol sales in Iowa 2014.  Top performing products and vendors were identified, and sales report was generated.  Trend of sales by month was analysed.  Distribution of stores by latitude and longitude was analysed.  Daily alcohol spend per capita by county was calculated and visualised on a map using Tableau.
+
+[Iowa Liquor Sales Analysis (Notion page)](https://bit.ly/IowaLiquorSalesLab_Notion)
+
+![COVID Data Journalism](/assets/img/sql_alcohol_sales_tableauGraphic.png)
 
 ------------------------------------------------------------------------------------------------
 ## Awards
