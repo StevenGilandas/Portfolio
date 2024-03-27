@@ -1,6 +1,8 @@
 # Data Analyst
 :: **[Download Resume](https://bit.ly/StevenGilandasCV_2024)**
 
+<a name="top"></a>
+
 :: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_ // _[SQL](#sql)_
 
 ------------------------------------------------------------------------------------------------
@@ -28,7 +30,7 @@ _To explore all projects please download repository ZIP/TAR_
 ------------------------------------------------------------------------------------------------
 
 <a name="fitbit"></a>
-### Fitbit Data Study |  General Assembly (Jan 2024)
+### Fitbit Data Study |  General Assembly (Jan 2024) <a href="#top" style="font-size:smaller;">↑ Back to Top</a>
 
 Developed a predictive model analysing Fitbit data over one month to correlate activity logging frequency with exercise efficiency and health outcomes, revealing key insights into daily calorie burn. Utilized Python, R, and Tableau for comprehensive data analysis and visualization.
 
