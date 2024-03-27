@@ -50,7 +50,7 @@ Developed a predictive model analysing Fitbit data over one month to correlate a
 
 ------------------------------------------------------------------------------------------------
 <a name="windfarm"></a>
-### Wind Farm Data Analysis |  General Assembly (Jan 2024)
+### Wind Farm Data Analysis |  General Assembly (Jan 2024) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 
 Analysed geographical distribution and efficiency of US wind farms, identifying operators and parent companies to guide investment decisions. Contributed to a group project that assessed turbine power generation, maintenance costs, and market trends, supporting investment strategies in the wind energy sector. Built using Python and Tableau.
 
@@ -68,7 +68,7 @@ Analysed geographical distribution and efficiency of US wind farms, identifying 
 
 ------------------------------------------------------------------------------------------------
 <a name="globalFood"></a>
-### Global Food Distribution (Power BI dashboard) | General Assembly (Nov 2023)
+### Global Food Distribution (Power BI dashboard) | General Assembly (Nov 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Analysis of sales data for global food distribution company with presence in US, Europe and Japan - completed as a lab exercise with General Assembly.  Used Power BI to derive insights to client's products sales and marketing in these countries.  Identified: top selling products, trends in sales for these products, customers generating highest sales.  Comparison was made of sales in US vs Europe.  Recommendations made to maximise portfolio profitability to US and Europe, and recommendations made for exploring untapped markets in Europe.
 
 **Dashboard comprises:** 
@@ -94,7 +94,7 @@ _4. Customer location:_ Map: cities, bubble size = sales amount.  (filtered by: 
 ------------------------------------------------------------------------------------------------
 <a name="tableau"></a>
  
-### COVID Data Journalism (Tableau Story) | General Assembly (Dec 2023)
+### COVID Data Journalism (Tableau Story) | General Assembly (Dec 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Analysis of COVID dataset from Our World In Data: used a series of Tableau visualisations to address the question "Where is the coronavirus situation the worst?"  Animation of global spread was created, looking at population adjusted cases by month.  Density of cases was compared with death rates across the same countries.  CFR (Case Fatality Ratio) was calculated to assess burden of disease from COVID by country. Countries with highest deaths (poor performers) per million vs countries with lowest CFR (good performers) were compared across a number of metrics including: testing and vaccination rates, population density, available hospital beds, lockdown severity, wealth, life expectancy, burden of chronic disease, age distribution. 
 
 [COVID Data Journalism - Tableau Story (download .twbx)](https://bit.ly/COVID_dataJournalism_tableau)
@@ -105,7 +105,7 @@ Analysis of COVID dataset from Our World In Data: used a series of Tableau visua
 ------------------------------------------------------------------------------------------------
 <a name="sql"></a>
  
-### Iowa Liquor Sales Analysis - SQL | General Assembly (Nov 2023)
+### Iowa Liquor Sales Analysis - SQL | General Assembly (Nov 2023) <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 Data analysis of liquor sales across various counties in Iowa - used online database of alcohol sales in Iowa 2014.  Top performing products and vendors were identified, and sales report was generated.  Trend of sales by month was analysed.  Distribution of stores by latitude and longitude was analysed.  Daily alcohol spend per capita by county was calculated and visualised on a map using Tableau.
 
 [Iowa Liquor Sales Analysis (Notion page)](https://bit.ly/IowaLiquorSalesLab_Notion)
@@ -166,4 +166,6 @@ Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology
 
 **Lecturer 3D Animation @ University of Sydney (_2006-2009_)**
 - Teaching 3D modeling and animation in Maya
+
+<sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 
