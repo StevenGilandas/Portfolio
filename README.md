@@ -5,6 +5,8 @@
 
 :: **Project Navigation** :: _Python:_ ([Fitbit](#fitbit) // [Wind Farm](#windfarm)) // _[Power BI](#globalFood)_ // _[Tableau](#tableau)_ // _[SQL](#sql)_
 
+:: [Awards : Education : Experience](#awards)
+
 ------------------------------------------------------------------------------------------------
 ## Profile
 I am a Data Analyst with an interest in Biostatistics. Fulfilling work for me is approaching a problem in a creative way and building solutions that are technically robust. I treat my technical output as a teaching opportunity - a way to engage with people and build knowledge. I’m particularly interested in using population health data to solve systemic problems in the way healthcare is delivered to communities.
@@ -113,7 +115,10 @@ Data analysis of liquor sales across various counties in Iowa - used online data
 ![COVID Data Journalism](/assets/img/sql_alcohol_sales_tableauGraphic.png)
 
 ------------------------------------------------------------------------------------------------
-## Awards
+
+<a name="awards"></a>
+
+## Awards <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
 **UNE Vice Chancellor's Scholar Award (_Jun 2023_):**
 Graduating with GPA 6.7 or higher; honor roll.
 
