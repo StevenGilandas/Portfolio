@@ -142,7 +142,7 @@ Highest aggregate grade in Year 3 physiology units: cardiorespiratory physiology
 
 
 ------------------------------------------------------------------------------------------------
-## Professional Experience <sub><sup><a href="#top" style="font-size:smaller;">↑ Back to Top</a></sup></sub>
+## Professional Experience 
 **Data Analyst Student | Biostatistics @ General Assembly (_Nov 2023 - Feb 2024_)**
 - Focused on advanced Excel, SQL, Power BI, Tableau, Python
 - Full time intensive program: 600+ hours comprising coding, statistical analysis, online collaboration, applying a problem solving workflow to data analytiics.  Produced group and individual capstone projects using Python, Tableau, R
